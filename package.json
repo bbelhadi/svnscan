@@ -1,0 +1,8 @@
+{
+  "name": "svnscan",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "jscomplexity": "~0.0.8"
+  }
+}
